@@ -1,0 +1,12 @@
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(1, 'Francesca Romanelli', 'f_romanelli@impacta.com.br','11992280220')
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(2, 'ANA CRISTINA DOS SANTOS', 'ac_santos@impacta.com.br','11987456325')
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(3, 'Bruno Luis Soares de Lima', 'bruno_lsl@impacta.com.br','11987651234')
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(4, 'Osvaldo Kotaro Takai', 'ok_takai@impacta.com.br','11979933687')
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(5, 'Alan Henrique Pardo de Carvalho', 'alan_hpc@impacta.com.br','11940022982')
+INSERT INTO COORDENADOR (IDUSUARIO, NOME, EMAIL, CELULAR) VALUES
+(6, 'Ayao Okamoto', 'ayao_okamoto@impacta.com.br','11971210838')
